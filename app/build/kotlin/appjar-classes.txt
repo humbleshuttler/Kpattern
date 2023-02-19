@@ -1,0 +1,1 @@
+/home/humbleshuttler/repos/Kpattern/app/build/classes/kotlin/main/kpattern/App.class:/home/humbleshuttler/repos/Kpattern/app/build/classes/kotlin/main/kpattern/AppKt.class:/home/humbleshuttler/repos/Kpattern/app/build/classes/kotlin/main/kpattern/pattern/DatabaseSingleton.class
