@@ -20,9 +20,11 @@ repositories {
 }
 
 dependencies {
+    implementation("org.jsoup:jsoup:1.17.2")
+//    runtimeOnly("org.jetbrains:markdown:0.2.0.pre-61")
+    implementation("com.google.guava:guava:33.0.0-jre")
     testImplementation("org.jetbrains.kotlin:kotlin-test-junit5")
     testImplementation("org.junit.jupiter:junit-jupiter-engine:5.9.1")
-    implementation("com.google.guava:guava:31.1-jre")
 }
 
 application {

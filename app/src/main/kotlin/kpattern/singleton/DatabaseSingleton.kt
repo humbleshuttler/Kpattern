@@ -1,4 +1,4 @@
-package kpattern.pattern
+package kpattern.singleton
 
 object DatabaseSingleton {
 
